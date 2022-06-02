@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "190.25.195.249",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Olfabrand",
+            "database": "Olfabrand",
+            "username": "ro_olfabrand",
+            "password": "R0Of.Bn#"
+        },
+        {
+            "previewLimit": 50,
+            "server": "104.156.246.212",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "OlfabrandSAS",
+            "database": "ro_olfabrand",
+            "password": "R0Of.Bn#",
+            "username": "Olfabrand"
+        }
+    ]
+}
